@@ -1,5 +1,14 @@
-
+- text: "Facilities"
+  url: facilities
+- text: "Programme"
+  url: programme
+- text: "Registration"
+  url: registration
+- text: "Sponsors"
+  url: sponsors
+- text: "Transportation"
+  url: transportation
+- text: "jDPG"
+  url: https://www.dpg-physik.de/vereinigungen/fachuebergreifend/ak/akjdpg
 - text: "AISF"
   url: https://www.ai-sf.it
-- icon: "share"
-  url: "https://www.google.com"

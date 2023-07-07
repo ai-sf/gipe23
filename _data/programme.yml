@@ -1,0 +1,112 @@
+description:
+  title: "General Infos"
+  paragraphs:
+    - paragraph:
+      - line: "TBD"
+
+schedule:
+  - day: "Thursday"
+    date: "5/10/2023"
+    activity:
+      - hour: "15:00"
+        name: "Opening Ceremony"
+        location:
+          name: "Physics Department"
+      - hour: "18:00"
+        name: "Coffee Break"
+        location:
+          name: "Physics Department"
+      - hour: "19:00"
+        name: "Check-in"
+        location:
+          name: "Hotel"
+      - hour: "21:00"
+        name: "Drink and Derive"
+        location:
+          name: "Terra di Mezzo"
+  - day: "Friday"
+    date: "6/10/2023"
+    activity:
+      - hour: "09:00"
+        name: "Plenary Session"
+        location:
+          name: "Physics Department"
+      - hour: "11:00"
+        name: "Coffee Break"
+        location:
+          name: "Physics Department"
+      - hour: "12:00"
+        name: "Visits"
+        location:
+          name: "INFN, Recas, Physics Department, PolySense"
+      - hour: "14:00"
+        name: "Lunch"
+        location:
+          name: "Physics Department"
+      - hour: "15:00"
+        name: "Visit"
+        location:
+          name: "SITAEL"
+      - hour: "19:00"
+        name: "Tour of the historical center"
+        location:
+          name: "City of Bari"
+      - hour: "21:00"
+        name: "Free Dinner"
+  - day: "Saturday"
+    date: "7/10/2023"
+    activity:
+      - hour: "09:00"
+        name: "PolignanoTour"
+        location:
+          name: "City of Polignano"
+      - hour: "13:00"
+        name: "Free Lunch"
+        location:
+          name: ""
+      - hour: "15:00"
+        name: "Parallel Session"
+        location:
+          name: "Physics Department"
+      - hour: "19:00"
+        name: "Sunset at the beach"
+        location:
+          name: "City of Bari"
+      - hour: "21:00"
+        name: "Free Dinner"
+  - day: "Sunday"
+    date: "8/10/2023"
+    activity:
+      - hour: "09:00"
+        name: "Parallel Session"
+        location:
+          name: "Physics Department"
+      - hour: "11:00"
+        name: "Coffee Break"
+        location:
+          name: "Physics Department"
+      - hour: "12:00"
+        name: "Parallel Session"
+        location:
+          name: "Physics Department"
+      - hour: "14:00"
+        name: "Free Lunch"
+      - hour: "16:00"
+        name: "Visit"
+        location:
+          name: "Archeological Museum"
+      - hour: "19:00"
+        name: "Free Time"
+      - hour: "09:00"
+        name: "Dinner and PARTY!"
+        location:
+          name: "TBD"
+  - day: "Monday"
+    date: "9/10/2023"
+    activity:
+      - hour: "09:00"
+        name: "Institutional Greetings"
+        location:
+          name: "Physics Department"
+      - hour: "12:00"
+        name: "Departures"

@@ -1,0 +1,17 @@
+logo: "img/logo_white.png"
+longname: "German Italian Physics Exchange"
+
+who: 
+  text: "60 participants equally divided between Italians and Germans"
+
+when: "From October 5th to 9th"
+
+where: "The Interuniversity Department of Physics Michelangelo Merlin and other places and facilities in the province of Bari"
+
+slideshow:
+  - img: img/bari.jpeg
+    alt: Bari
+  - img: img/bari2.jpeg
+    alt: Bari2
+
+paragraph: "The Italian Association of Physics Students (AISF), in the current year 2023, organizes on early October the German Italian Physics Exchange (GIPE), an international event of a scientific-cultural nature. The GIPE initiative was born from the desire to create a network of contacts between all the components IAPS (International Association of Physics Students)."

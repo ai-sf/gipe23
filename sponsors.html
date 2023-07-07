@@ -1,0 +1,31 @@
+---
+layout: page
+title: Sponsors
+---
+
+{% include cards.html data = site.data.sponsors %}
+<div class="row">
+    {% for sponsor in site.data.sponsors.institutions %}
+        <div class="col s12 m6 l4">
+          <div class="card small">
+            <div class="card-image valign-wrapper">
+              <img src="{{site.url}}/{{sponsor.logo}}">
+            </div>
+            <div class="card-content">
+             <a href="{{sponsor.website}}">
+                 <h4 class="custom1-text">{{sponsor.name}}</h4>
+             </a>
+            </div>
+          </div>
+        </div>
+    {% endfor %}
+  </div>
+
+ <div class="section">
+  <div class="row">
+    <div class="col s12">
+      <h4>Support us</h4>
+      <p>If you are interested in sponsoring our events, please write an email to <a class="custom1-text" href="mailto:{{ site.data.sponsors.mail }}">this</a> email address.</p>
+    </div><br>
+  </div>
+</div>

@@ -4,6 +4,10 @@ descr: The Associazione Italiana Studenti di Fisica (AISF) gathers together most
 contact:
   - name: AISF
     mail: esecutivo@ai-sf.it
+  - name: AISF Bari
+    mail: bari@ai-sf.it
+  - name: Contact person
+    mail: chiara.perilli@ai-sf.it
 
 connect:
   - name: Facebook
@@ -19,4 +23,6 @@ connect:
 creator:
   - name: Roberto Ciccarelli
     mail: roberto.ciccarelli@ai-sf.it
+  - name: Andrea Gerhard Lutz
+    mail: andreagerhard.lutz@ai-sf.it
 

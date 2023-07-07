@@ -1,0 +1,15 @@
+text: Sponsors
+
+mail: esecutivo@ai-sf.it
+
+cards:
+  - size: "small"
+    items:
+      - title: "Interuniversity Department of Physics Michelangelo Merlin"
+        site: "http://www.fisica.uniba.it/"
+      - title: "City of Bari"
+        site: "https://www.comune.bari.it/"
+        img: "img/sponsors/bari_logo.png"
+      - title: "PolySense"
+        site: "http://polysense.poliba.it/"
+        img: "img/sponsors/polysense_logo.jpeg"

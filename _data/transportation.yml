@@ -1,0 +1,35 @@
+description:
+  title: ""
+  paragraphs:
+    - paragraph: 
+      - line: "Bari is the main city of Apulia, as well as one of the biggest in Southern Italy. It has a well-connected airport and station, so getting there won't be a problem."
+
+sections:
+  - name: "Flights to Bari"
+    info: ""
+    points:
+      - text: "There are just some of the direct flights from the main German cities. You can also get to Bari by making a stop at an Italian or European airport, it is not going to take long."
+        subpoints:
+          - text: "Berlin - Bari: direct flight, 2h 10min"
+          - text: "Baden-Baden - Bari: direct flight, 2h"
+          - text: "Frankfurt - Bari: direct flight, 2h 10min"
+  - name: "Getting to and from the airport"
+    info: ""
+    points:
+      - text: "Bus number 16, operated by AMTAB, is the cheapest way to get from Bari Airport to Bari. The bus leaves at least once an hour and runs between the airport and Piazza Aldo Moro square near the main railway station Bari Centrale. Travel time is about 50 minutes, as the bus has to make multiple stops. A one-way ticket costs € 1.20, a day ticket is available for € 2.50 per person. You can buy tickets from the bus driver and with your mobile phone via SMS. The last bus from the airport departs around 22:00 hours, check the time schedule for more details."
+      - text: "A train line is available, which has a connection at the airport and can take you to the main train station in the city centre, Bari Centrale. This line is called the FM2 line (or FR2 line) and it is operated by the Bari metropolitan railway service - Ferrotramviaria S.P.A. The station is not that close to the airport, so you must add at least 10 minutes to your journey time to walk to the platform; however, it is well signposted from the terminal and it will take you through a series of tunnels. There are 41 trains operating on weekdays and 33 trains operating on weekends, which depart the airport between 05:26 and 23:38 at intervals between 20 and 30 minutes. A journey from the airport to Bari Centrale will take 17 minutes and stop at 5 stations along the way. A journey from the airport to the central station or vice versa will cost €5.00 per person for a one-way ticket."
+      - text: "It is also possible to take a taxi from the airport, or even hire a car."
+  - name: "Trains to Bari"
+    info: ""
+    points:
+      - text: "Bari is also well-connected by land, with direct trains to the main Italian cities. So, if you're already in Italy and you wish to go to Bari, here you'll find a list of direct trains to the Apulian city."
+        subpoints:
+          - text: "Milano Centrale - Bari Centrale: direct train, 7h 55min"
+          - text: "Torino Porta Nuova - Bari Centrale: direct train, 8h 15min"
+          - text: "Bologna Centrale - Bari Centrale: direct train, 5h 45min"
+          - text: "Roma Termini - Bari Centrale: direct train, 4h"
+          - text: "Venezia - Bari Centrale: direct train, 7h 15min"
+          - text: "Padova - Bari Centrale: direct train, 6h 45min"
+          - text: "Ancona - Bari Centrale: direct train, 3h 53min"
+          - text: "Ostuni - Bari Centrale: direct train, 50min"
+      - text: "Those listed above are the direct trains to Bari Centrale from the main Italian cities. You can also get there from other cities, but maybe you need to make a stop or two at another station. Anyway, there are also trains traveling at night, where you can book a cabin and sleep."

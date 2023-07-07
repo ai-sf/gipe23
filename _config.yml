@@ -1,6 +1,6 @@
 # Site settings
-title: "Titolo sito"
-description: "Descrizione sito"
+title: "GIPE"
+description: "German-Italian Physics Exchange"
 url: "https://ai-sf.it/gipe23"
 destination: ../site/
 locale: "it"
