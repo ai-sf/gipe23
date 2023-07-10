@@ -6,7 +6,7 @@ cards:
   - size: "small"
     items:
       - title: "Interuniversity Department of Physics Michelangelo Merlin"
-        site: "http://www.fisica.uniba.it/"
+        site: "https://www.uniba.it/it/ricerca/dipartimenti/fisica"
       - title: "City of Bari"
         site: "https://www.comune.bari.it/"
         img: "img/sponsors/bari_logo.png"

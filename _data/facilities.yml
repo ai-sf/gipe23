@@ -1,0 +1,53 @@
+cards:
+  - name: "Hosts"
+  - items:
+    - img: "img/facilities/dipartimento1.jpg"
+      title: "University of Bari - Interuniversity Department of Physics Michelangelo Merlin"
+      descr:
+      site: "https://www.uniba.it/it/ricerca/dipartimenti/fisica"
+      tag: "uniba"
+      map: "https://goo.gl/maps/FFnAu4D93oXerxDo9"
+    - img: 
+      title: "PolySense"
+      descr:
+      site: "http://polysense.poliba.it/"
+      map: "https://goo.gl/maps/43Zz5i1XrBqLKfYX9"
+    - img: "img/facilities/recas.jpg"
+      title: "ReCas-Bari Data Center"
+      descr:
+      site: "https://www.recas-bari.it/index.php/it/"
+      map: "https://goo.gl/maps/NNzTQFzmsbTB4bRCA"
+    - img: "img/facilities/sitael.jpg"
+      title: "SITAEL S.p.A."
+      descr:
+      site: "https://www.sitael.com/"
+      tag: "sitael"
+      map: "https://goo.gl/maps/EqmH248GayVfAeud6"
+
+  - name: "Places"
+  - items:
+    - img: "img/facilities/bari2.jpg"
+      title: "Historical centre of Bari"
+      descr:
+      tag: "barivecchia"
+      map: "https://goo.gl/maps/Li8iejdPbjGK5npg6"
+    - img: "img/facilities/polignano1.jpg"
+      title: "Polignano a Mare"
+      descr:
+      tag: "polignano"
+      map: "https://goo.gl/maps/3KGyc6kTndRuZH5B8"
+    - img: "img/facilities/terradimezzo.jpg"
+      title: "Terra di Mezzo Pub"
+      descr:
+      site: "https://www.pubterradimezzo.it/"
+      tag: "terradimezzo"
+      map: "https://goo.gl/maps/F6qJMFUB6wiHzjr39"
+
+  - name: "Accomodation"
+  - items:
+    - img: "img/facilities/hotel.jpg"
+      title: "Campus Hotel"
+      descr:
+      site: "http://www.campushotel.it/"
+      tag: "hotel"
+      map: "https://goo.gl/maps/VsqN1bfc8GaRU5C79"

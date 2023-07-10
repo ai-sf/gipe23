@@ -2,7 +2,9 @@ description:
   title: "General Infos"
   paragraphs:
     - paragraph:
-      - line: "TBD"
+      - line: "GIPE (German Italian Physics Exchange) is an international twinning project of conferences which aims to link more and more students from all over the world; In particular, GIPE gathers German and Italian students. The project's organization operates on several levels such as, the presentation of the research activities provided by the host institution and the peer-to-peer sharing of the experiences lived by the young researchers. During your stay, AISF Bari provides you for visits to laboratories and research facilities, both university and private, with moments of direct confrontation with experts. There will also be some spaces granted to companies, who want to participate in the project, to exhibit activities and job offers they propose. Among the various activities we want to give space to the visit of laboratories, as to present the different areas of physics to which a graduate or graduating physics can look out for the future. In the same way, as will be discussed in more detail later, the local committee has taken care to ensure some fruitful moments of sociability, mainly oriented towards the scientific field that can favor a free exchange of opinions among students."
+    - paragraph:
+      - line: "During all the scheduled activities, Hotel Campus will host you: as displayed by its name, the facility is located nearby the campus. Once you will have checked, you will be led to your lovely rooms of four and three, where you will rest after the. Lastly in the morning you will be served with both typical and international breakfasts, such as brioches with confiture and espresso."
 
 schedule:
   - day: "Thursday"
@@ -12,18 +14,22 @@ schedule:
         name: "Opening Ceremony"
         location:
           name: "Physics Department"
+          tag: "uniba"
       - hour: "18:00"
         name: "Coffee Break"
         location:
           name: "Physics Department"
+          tag: "uniba"
       - hour: "19:00"
         name: "Check-in"
         location:
           name: "Hotel"
+          tag: "hotel"
       - hour: "21:00"
         name: "Drink and Derive"
         location:
           name: "Terra di Mezzo"
+          tag: "terradimezzo"
   - day: "Friday"
     date: "6/10/2023"
     activity:
@@ -31,10 +37,12 @@ schedule:
         name: "Plenary Session"
         location:
           name: "Physics Department"
+          tag: "uniba"
       - hour: "11:00"
         name: "Coffee Break"
         location:
           name: "Physics Department"
+          tag: "uniba"
       - hour: "12:00"
         name: "Visits"
         location:
@@ -43,14 +51,17 @@ schedule:
         name: "Lunch"
         location:
           name: "Physics Department"
+          tag: "uniba"
       - hour: "15:00"
         name: "Visit"
         location:
           name: "SITAEL"
+          tag: "sitael"
       - hour: "19:00"
-        name: "Tour of the historical center"
+        name: "Tour of the Historical Center"
         location:
           name: "City of Bari"
+          tag: "barivecchia"
       - hour: "21:00"
         name: "Free Dinner"
   - day: "Saturday"
@@ -59,19 +70,20 @@ schedule:
       - hour: "09:00"
         name: "PolignanoTour"
         location:
-          name: "City of Polignano"
+          name: "City of Polignano a Mare"
+          tag: "polignano"
       - hour: "13:00"
         name: "Free Lunch"
-        location:
-          name: ""
       - hour: "15:00"
         name: "Parallel Session"
         location:
-          name: "Physics Department"
+          name: "Phyisics Department"
+          tag: "uniba"
       - hour: "19:00"
         name: "Sunset at the beach"
         location:
           name: "City of Bari"
+          tag: "barivecchia"
       - hour: "21:00"
         name: "Free Dinner"
   - day: "Sunday"
@@ -81,14 +93,17 @@ schedule:
         name: "Parallel Session"
         location:
           name: "Physics Department"
+          tag: "uniba"
       - hour: "11:00"
         name: "Coffee Break"
         location:
           name: "Physics Department"
+          tag: "uniba"
       - hour: "12:00"
         name: "Parallel Session"
         location:
           name: "Physics Department"
+          tag: "uniba"
       - hour: "14:00"
         name: "Free Lunch"
       - hour: "16:00"
@@ -108,5 +123,22 @@ schedule:
         name: "Institutional Greetings"
         location:
           name: "Physics Department"
+          tag: "uniba"
       - hour: "12:00"
         name: "Departures"
+
+description2:
+  - title: "Scientific Journey"
+    paragraphs:
+      - paragraph: "We have programmed many scientific visits. Firstly, we will discover the UniBa-PoliBa joined Physics Department M. Merlin, showing both its didactical and research activities, walking through the labs and workshops. Then we will see the Bari INFN section, which promotes, coordinates and makes research on five macro sectors: particle and astro particle physics, nuclear physics, theoretical physics and interdisciplinary technological research."
+      - paragraph: "A visit to the recently-inaugurated laboratory of PolySense will be offered. This structure, with the collaboration of the Universities of the city, carries out research on the development of innovative diapason-like sensors used to detect gas. Lastly, we will have the opportunity to enter the Data Center ReCas, which since 2015 has made possible the elaboration of data coming from research groups both linked with the University and external (it boasts the collaboration with some CERN experiments)."
+  - title: "Cultural Journey"
+    paragraphs:
+      - paragraph: "During the second day of GIPE we have programmed a visit to the historic center of Bari, in order to let everyone reach out the peculiar aspects of the Baresan culture. We will walk through the narrow streets of Bari Vecchia, admiring the characteristic monuments of our city and enjoying the delicious food the local activities have to offer."
+      - paragraph: "Another day will be completely dedicated to the visit of the marvelous city of Polignano. We have chosen this place since it is considered one of the most peculiar places in the whole region, where you can enjoy fully the Apulian culture. Students will have the opportunity to have a walk in the historical center, admire the breath-taking cliffs while enjoying the world-wide recognized Polignano ice cream. After lunch we will return to our department, where parallel sessions will be held. These will be covered more deeply in the following parts."
+  - title: "Social Activities"
+    paragraphs:
+      - paragraph: "GIPE will start with a wonderful opening ceremony, aimed at presenting the event and the members of the local committee, the closing ceremony and the coffee breaks scheduled on the various days, which will also include refreshments for the participants."
+      - paragraph: "During the exchange we have provided, as already anticipated, moments of sharing and sociality among the students. The first of them is represented by an event typically organized by AISF Bari that in recent years has been a success, the Drink & Derive. It will take place at the Terra di Mezzo pub in Bari and consists of several team quizzes on differential calculus (hence the name of the event). All this is accompanied by plenty of beer. "
+      - paragraph: "There will take place the parallel sessions: a series of short lectures in which both Italian and German students expose their research work to other attendees in a time of about half an hour. The session will be organized in different tables, each focused on a different topic and everything will be inserted in the wonderful setting of the landscape of Polignano."
+      - paragraph: "Of course, parties will not lack during GIPE: we will celebrate the project all together on the notes of beautiful songs tasting some typical Apulian specialties."

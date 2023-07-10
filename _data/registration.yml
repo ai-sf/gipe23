@@ -2,21 +2,35 @@ description:
   title: "General Infos"
   paragraphs:
     - paragraph:
-      - line: "TBD"
+      - line: "Registrations will be open from 10th July at 24:00."
+    - paragraph:
+      - line: "You can find the registration form at the bottom of this page. Please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, etc.) and a motivational letter."
 
 sections:
-  - name: "Participation Fee and Requirements"
+  - name: "Participation Fee, Requirements and Selection"
     points:
-      - text: "TBD"
-  - name: "Selection"
-    points:
-      - text: "TBD"
+      - text: "40 places are available, of whom approximately half will be for German students; the remaining 20 places will be reserved to AISF members."
+      - text: "The selected candidates will have to cover a participation fee of"
+        subpoints:
+          - text: "€100 if they choose to stay in the chosen facility of Hotel Campus"
+          - text: "€50 if the candidates prefer to not use our facilities"
+      - text: "Among AISF candidates, 11 spots will be assigned to Bari Local Committee members who will be able to access to the event with a reduced fee (without accommodation) of 50€"
+      - text: "The following section shows the selection criteria the local committee will use to choose the attendants to GIPE. Priority will be given to:"
+        subpoints: 
+          - text: "Those students who haven't participated to GIPE previous editions;"
+          - text: "Those students who motivate their participation with a motivation letter, where you explain your motivations to participate;"
+          - text: "Those students who are willing to speech during Parallel session;"
+          - text: "Those who are attending at least the 1st year of a scientific bachelor's degree;"
+          - text: "Those candidates who get enrolled first."
+      - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students currently."
   - name: "Terms"
     points:
-      - text: "TBD"
-  - name: "Deadlines"
-    points:
-      - text: "TBD"
+      - text: "All personal data will be handled confidentiallyand in compliance with the European (GDPR EU 2016/679) and Italian (Art. 13 D. Lgs. 196/2003) data and privacy protection laws."
+      - text: "You acknowledge and agree that the Organising Committee, the Italian Association of Physics Students (AISF), and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the German Italian Physics Exchange."
+      - text: "By participating in the event, you agree to be filmed, photographed, and otherwise recorded during the conference and hereby expressly grant the organizing committee, AISF the right to use your picture, movie or any other form of media publication in contexts such as the internet, social medias, brochures, posters, informative and advertising materials. You also confirm that the information contained in this application is true and correct."
+      - text: "You accept that either the Organising Committee, or the Italian Association of Physics Students (AISF), or the hosts of the event cannot be made responsible for the content of any talk, poster, workshop, excursion or similar activity."
+      - text: "You accept that, in case of cancellation by a participant, the Organising Committee will provide a reimbursement only if a replacement for the student can be found. No reimbursement will be given for membership fees under any circumstances. If a reimbursement were to be approved, the Organising Committee will retain a total of 20% of the fee as a contribution to the expenses to the event."
+      - text: "The present terms and conditions are governed by the laws of the Republic of Italy."
   - name: "Registration Form"
     points:
-      - text: "TBD"
+      - text: "<a href='https://docs.google.com/forms/d/e/1FAIpQLScsS_FsUA9kFs_8kVs5WYrbpRJIYBCubzZumg7xOaiJPbFz3Q/viewform?usp=sf_link'>Here</a> you can find the registration form."
