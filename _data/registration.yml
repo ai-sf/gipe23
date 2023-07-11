@@ -31,6 +31,6 @@ sections:
       - text: "You accept that either the Organising Committee, or the Italian Association of Physics Students (AISF), or the hosts of the event cannot be made responsible for the content of any talk, poster, workshop, excursion or similar activity."
       - text: "You accept that, in case of cancellation by a participant, the Organising Committee will provide a reimbursement only if a replacement for the student can be found. No reimbursement will be given for membership fees under any circumstances. If a reimbursement were to be approved, the Organising Committee will retain a total of 20% of the fee as a contribution to the expenses to the event."
       - text: "The present terms and conditions are governed by the laws of the Republic of Italy."
-  - name: "Registration Form"
-    points:
-      - text: "<a href='https://docs.google.com/forms/d/e/1FAIpQLScsS_FsUA9kFs_8kVs5WYrbpRJIYBCubzZumg7xOaiJPbFz3Q/viewform?usp=sf_link'>Here</a> you can find the registration form."
+  #- name: "Registration Form"
+  #  points:
+  #    - text: "<a href='https://docs.google.com/forms/d/e/1FAIpQLScsS_FsUA9kFs_8kVs5WYrbpRJIYBCubzZumg7xOaiJPbFz3Q/viewform?usp=sf_link'>Here</a> you can find the registration form."
