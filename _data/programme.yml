@@ -90,7 +90,7 @@ schedule:
     date: "8/10/2023"
     activity:
       - hour: "09:00"
-        name: "Parallel Session"
+        name: "Plenary Session"
         location:
           name: "Physics Department"
           tag: "uniba"
@@ -100,7 +100,7 @@ schedule:
           name: "Physics Department"
           tag: "uniba"
       - hour: "12:00"
-        name: "Parallel Session"
+        name: "Parallel/Plenary Session"
         location:
           name: "Physics Department"
           tag: "uniba"
