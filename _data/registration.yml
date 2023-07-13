@@ -14,7 +14,7 @@ sections:
         subpoints:
           - text: "€100 if they choose to stay in the chosen facility of Hotel Campus"
           - text: "€50 if the candidates prefer to not use our facilities"
-      - text: "Among AISF candidates, 11 spots will be assigned to Bari Local Committee members who will be able to access to the event with a reduced fee (without accommodation) of 50€"
+      # - text: "Among AISF candidates, 11 spots will be assigned to Bari Local Committee members who will be able to access to the event with a reduced fee (without accommodation) of 50€"
       - text: "The following section shows the selection criteria the local committee will use to choose the attendants to GIPE. Priority will be given to:"
         subpoints: 
           - text: "Those students who haven't participated to GIPE previous editions;"

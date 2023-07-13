@@ -77,7 +77,7 @@ schedule:
       - hour: "15:00"
         name: "Parallel Session"
         location:
-          name: "Phyisics Department"
+          name: "Polignano a Mare"
           tag: "uniba"
       - hour: "19:00"
         name: "Sunset at the beach"
