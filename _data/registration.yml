@@ -14,8 +14,8 @@ sections:
       - text: "60 places are available, 40 of them divided in equal parts between jDPG and AISF members. The remaining places are for local students and for the organizing committee."
       - text: "The selected candidates will have to cover a participation fee of"
         subpoints:
-          - text: "€100 if they choose to stay in the chosen facility of Hotel Campus"
-          - text: "€50 if the candidates prefer to not use our facilities"
+          - text: "€100 if they choose to stay in the chosen facility of Hotel Campus;"
+          - text: "€50 if the candidates prefer to not use our facilities."
       # - text: "Among AISF candidates, 11 spots will be assigned to Bari Local Committee members who will be able to access to the event with a reduced fee (without accommodation) of 50€"
       - text: "The following section shows the selection criteria the local committee will use to choose the attendants to GIPE. Priority will be given to:"
         subpoints: 
@@ -24,7 +24,8 @@ sections:
           # - text: "Those students who are willing to speech during Parallel session;"
           # - text: "Those who are attending at least the 1st year of a scientific bachelor's degree;"
           - text: "Those candidates who get enrolled first."
-      - text: "Preference will be given to students presenting abstracts (for either a talk or a poster)"
+      - text: "Preference will be given to students presenting abstracts (for either a talk or a poster)."
+      #- text: If you want to present a talk or a poster for the Parallel Session, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfxsu23NKbXLf_gLruVDVo07BlYHzeKFJM2Cnhxs--r2m85_A/viewform?usp=sf_link">click here</a> for submit your abstract.
       - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students currently."
   - name: "Terms"
     points:
