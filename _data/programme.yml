@@ -100,10 +100,10 @@ schedule:
           name: "Physics Department"
           tag: "uniba"
       - hour: "12:00"
-        name: "Parallel/Plenary Session"
+        name: "Parallel Session"
         location:
-          name: "Physics Department"
-          tag: "uniba"
+          name: "Officina degli Esordi"
+          tag: "ode"
       - hour: "14:00"
         name: "Free Lunch"
       - hour: "16:00"

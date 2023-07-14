@@ -1,15 +1,24 @@
 text: Sponsors
 
-mail: esecutivo@ai-sf.it
+mail: gipe23@ai-sf.it
 
 cards:
   - size: "small"
     items:
-      - title: "Interuniversity Department of Physics Michelangelo Merlin"
-        site: "https://www.uniba.it/it/ricerca/dipartimenti/fisica"
-      - title: "City of Bari"
+      - title: "Comune di Bari"
         site: "https://www.comune.bari.it/"
         img: "img/sponsors/bari_logo.png"
+      - title: "Divella"
+        site: "https://www.divella.it/it/"
+        img: "img/sponsors/divella_logo.png"
+      - title: "IAPS"
+        site: "https://iaps.info/"
+        img: "img/sponsors/iaps_logo.jpg"
+      - title: "Interuniversity Department of Physics Michelangelo Merlin"
+        site: "https://www.uniba.it/it/ricerca/dipartimenti/fisica"
+      - title: "Magnitude Instruments"
+        site: "https://magnitudeinstruments.com/"
+        img: "img/sponsors/magnitude_logo.png"
       - title: "PolySense"
         site: "http://polysense.poliba.it/"
         img: "img/sponsors/polysense_logo.jpeg"

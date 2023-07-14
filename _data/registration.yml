@@ -2,14 +2,16 @@ description:
   title: "General Infos"
   paragraphs:
     - paragraph:
-      - line: "Registrations will be open from 15th July at 10:00."
+      - line: "Registrations will start on the 15th of July at 10:00 (GMT+2) and will last until the 1st of August at 10:00 (GMT+2)."
+      - line: "Following the registration period, we expect to email all applicants within 15 days."
+      - line: "Payments will then be required (by bank transfer or PayPal) within 15 days of receiving an acceptance email from the organising committee."
     - paragraph:
       - line: "You can find the registration form at the bottom of this page. Please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, etc.) and a motivational letter."
 
 sections:
   - name: "Participation Fee, Requirements and Selection"
     points:
-      - text: "40 places are available, of whom approximately half will be for German students; the remaining 20 places will be reserved to AISF members."
+      - text: "60 places are available, 40 of them divided in equal parts between jDPG and AISF members. The remaining places are for local students and for the organizing committee."
       - text: "The selected candidates will have to cover a participation fee of"
         subpoints:
           - text: "€100 if they choose to stay in the chosen facility of Hotel Campus"
@@ -19,9 +21,10 @@ sections:
         subpoints: 
           - text: "Those students who haven't participated to GIPE previous editions;"
           - text: "Those students who motivate their participation with a motivation letter, where you explain your motivations to participate;"
-          - text: "Those students who are willing to speech during Parallel session;"
-          - text: "Those who are attending at least the 1st year of a scientific bachelor's degree;"
+          # - text: "Those students who are willing to speech during Parallel session;"
+          # - text: "Those who are attending at least the 1st year of a scientific bachelor's degree;"
           - text: "Those candidates who get enrolled first."
+      - text: "Preference will be given to students presenting abstracts (for either a talk or a poster)"
       - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students currently."
   - name: "Terms"
     points:

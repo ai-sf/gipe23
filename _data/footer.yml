@@ -10,15 +10,12 @@ contact:
     mail: chiara.perilli@ai-sf.it
 
 connect:
-  - name: Facebook
-    url: "https://it-it.facebook.com/aisf.fisica/"
-    facebook: true
-  - name: Instagram
+  - name: GIPE23
     url: "https://www.instagram.com/gipe.2023/"
     instagram: true
-  - name: Twitter
-    url: "https://twitter.com/aisf_fisica"
-    twitter: true
+  - name: AISF Bari
+    url: "https://www.instagram.com/aisfbari/"
+    instagram: true
 
 creator:
   - name: Roberto Ciccarelli

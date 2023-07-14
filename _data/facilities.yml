@@ -3,23 +3,23 @@ cards:
   - items:
     - img: "img/facilities/dipartimento1.jpg"
       title: "University of Bari - Interuniversity Department of Physics Michelangelo Merlin"
-      descr:
+      descr: "The Michelangelo Merlin Interuniversity Department of Physics of the Aldo Moro University and the Polytechnic of Bari (DIF) promotes research activities in the field of basic and applied physics, conducted through qualified international collaborations, with positive effects on the territory, at the order to promote its development. These peculiarities have contributed to the growth of the Puglia Region, which has now become a nationally recognized development center for advanced technologies in many sectors: mechatronics, aerospace and environmental and biomedical sensors, to name a few. The DIF is also the only interuniversity department of Physics in Italy, maintaining, even after the birth of the Polytechnic of Bari, that cultural unity which has always been a strong point of the department. The DIF brings together a vast community of researchers (over 100) who operate in a cohesive, coordinated and synergistic way, engaged in basic, applied and multidisciplinary research activities, in training and higher education and third mission activities."
       site: "https://www.uniba.it/it/ricerca/dipartimenti/fisica"
       tag: "uniba"
       map: "https://goo.gl/maps/FFnAu4D93oXerxDo9"
     - img: 
       title: "PolySense"
-      descr:
+      descr: "PolySenSe Innovations is a spin-off company of the Polytechnic of Bari, devoted to the development of optical-based sensors, technical training for companies, and to find solution to strategic problems."
       site: "http://polysense.poliba.it/"
       map: "https://goo.gl/maps/43Zz5i1XrBqLKfYX9"
     - img: "img/facilities/recas.jpg"
       title: "ReCas-Bari Data Center"
-      descr:
+      descr: "ReCAS is a joint calculus centre created by our University and INFN (Istituto Nazionale di Fisica Nucleare). One of its most important projects is Bc2S (Bari Computing Centre for Science) which is a huge support to the current most important international projects (as LHC and ALICE)."
       site: "https://www.recas-bari.it/index.php/it/"
       map: "https://goo.gl/maps/NNzTQFzmsbTB4bRCA"
     - img: "img/facilities/sitael.jpg"
       title: "SITAEL S.p.A."
-      descr:
+      descr: "WIP"
       site: "https://www.sitael.com/"
       tag: "sitael"
       map: "https://goo.gl/maps/EqmH248GayVfAeud6"
@@ -28,26 +28,32 @@ cards:
   - items:
     - img: "img/facilities/bari2.jpg"
       title: "Historical centre of Bari"
-      descr:
+      descr: "The main attractions of the city are concentrated in its ancient village, <i>Bari Vecchia</i>. Even today, the ancient village retains its medieval appearance, with stone buildings, chianche on the ground and small commercial activities. What makes Bari Vecchia so special is the set of smells, sounds and colors that characterize it. In just a few steps you will find yourself breathing in the scent of fried panzerotti or laundry hanging out to dry in the sun, you will hear the cries of children playing in the street or the silence of residential tranquillity. Walking in Bari Vecchia is a 360-degree experience, it is what is defined as immersion in the local culture. There is no better place than this to understand the Bari roots, the soul of the people, the genuineness of its food and what has made Bari what it is today."
       tag: "barivecchia"
       map: "https://goo.gl/maps/Li8iejdPbjGK5npg6"
     - img: "img/facilities/polignano1.jpg"
       title: "Polignano a Mare"
-      descr:
+      descr: "Perched on the edge of a high cliff that rises from the Adriatic Sea, Polignano a Mare is one of the most spectacular and popular resorts on the Apulian coast. The historic center of this seaside village is a maze of narrow streets that extends towards a tiny beach, the Lama Monachile, which cuts the cliff in two. Below the town, a tangle of caves invites you to discover a crystal-clear sea. Polignano is also the birthplace of Domenico Modugno, the author of “Nel blu dipinto di blu”, the most famous Italian song in the world."
       tag: "polignano"
       map: "https://goo.gl/maps/3KGyc6kTndRuZH5B8"
     - img: "img/facilities/terradimezzo.jpg"
       title: "Terra di Mezzo Pub"
-      descr:
+      descr: "Terra di mezzo is a fantasy-based pub located in Via Giovanni Amendola, which offers you delicious meals and drinks. Here will take place the <i>Drink & Derive</i>: a team contest based on science and calculus where, at the final round, the winning team's members will challenge themselves until one remains. The remaining contestant will be declared Winner of this Drink & Derive."
       site: "https://www.pubterradimezzo.it/"
       tag: "terradimezzo"
       map: "https://goo.gl/maps/F6qJMFUB6wiHzjr39"
+    - img: "img/facilities/ode.jpg"
+      title: "Officina degli Esordi"
+      descr: "Near Garibali's Gardens at the beginning of Via Crispi, Officina degli Esordi is a space whose objective is the promotion of ideas and culture; here will be held the parallel sessions held by us guys participating in GIPE, during which there will be a musical accompaniment provided by a local band."
+      site: "https://www.officinadegliesordi.it/"
+      tag: "ode"
+      map: "https://goo.gl/maps/BLN1q15NFPqmxKtp7"
 
   - name: "Accomodation"
   - items:
     - img: "img/facilities/hotel.jpg"
       title: "Campus Hotel"
-      descr:
+      descr: "On Campus' thrashold and facing Via Giovanni Amendola, Hotel Campus is the hotel that will host you during GIPE. It provides you with comfort and with delicious breakfasts."
       site: "http://www.campushotel.it/"
       tag: "hotel"
       map: "https://goo.gl/maps/VsqN1bfc8GaRU5C79"
