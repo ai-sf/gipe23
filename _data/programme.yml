@@ -92,8 +92,8 @@ schedule:
       - hour: "09:00"
         name: "Plenary Session"
         location:
-          name: "Physics Department"
-          tag: "uniba"
+          name: "Officina degli Esordi"
+          tag: "ode"
       - hour: "11:00"
         name: "Coffee Break"
         location:
